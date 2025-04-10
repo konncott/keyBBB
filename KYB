@@ -4,7 +4,7 @@ local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
 
-local keyRequired = "147"
+local keyRequired = "1478"
 local keySiteURL = "https://discord.gg/5Cb8DB3sAV"
 local discordInvite = "https://discord.gg/5Cb8DB3sAV"
 
